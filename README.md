@@ -1,7 +1,7 @@
 ### Hello Stranger, I'm Khozex 👋
 
 - 🔭 I’m currently working on FullStack Javascript
-- 🌱 I’m currently learning React and NodeJs
+- 🌱 I’m currently learning Rust and Java
 - 😄 Pronouns: Him / his 
 
 <div align="center">
